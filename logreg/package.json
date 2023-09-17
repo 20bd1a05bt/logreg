@@ -1,0 +1,19 @@
+{
+  "name": "logreg",
+  "version": "1.0.0",
+  "description": "login and  registration page with o-auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20bd1a05bt/logreg.git"
+  },
+  "author": "shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20bd1a05bt/logreg/issues"
+  },
+  "homepage": "https://github.com/20bd1a05bt/logreg#readme"
+}
